@@ -1,0 +1,12 @@
+GUI - Tkinter:
+    -Start window:
+        Buttons: Create, Search
+        Background Picture
+    -Create inventory window
+    -Search inventory
+
+Database - MongoDB(NoSQL)
+
+Python version 3.9.x
+
+
